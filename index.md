@@ -11,7 +11,7 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
 ## Conteúdo programático
 
 <details>
-<summary> Modulo I - Lógica de programação </summary>
+<summary> Modulo I - Lógica de programação (Fundamentos básicos) </summary>
     * O que são váriaveis <br />
     * O que são funções(métodos) <br />
     * Condicionais if...else,  <br />
@@ -19,4 +19,13 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
     * O que é escopo <br />
     * Hoisting <br />
     
+</details>
+
+<details>
+<summary> Modulo II - Configurando o ambiente </summary>
+    * Instalando NodeJS <br />
+    * Baixando React Create App <br />
+    * Git <br />
+    * Criando um repositório no Github <br />
+    * Padronizando nosso código com o Prettier e o Lint <br />
 </details>
