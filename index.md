@@ -7,6 +7,14 @@ Esse conteudo está sendo desenvolvido de forma gratuita para a comunidade dev c
  
 Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/DiegoTelles) 
 
+Nosso desafio:
+ Faremos integrações via API's para realizarmos nosso CRUD (**C**reate, **R**ead, **U**pdate e **D**elete);<br />
+ Usaremos componentização para dividir nosso Front e deixar ele mais fluído;<br />
+ Vamos aprender o que é um SPA (**S**ingle **P**age **A**pplication) e um MSP (**M**ulti **P**age **A**pplication);<br />
+ Entenderemos como e porque existem States/Props e Life Cycles;<br />
+ Vamos ver um pouco de Redux e entender como ele se comporta e qual o melhor momento de usar ele;<br />
+ Faremos nosso Deploy da applicação no Heroku e Netlify.<br />
+
 
 ## Conteúdo programático
 
