@@ -21,6 +21,8 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
     
 </details>
 
+
+-------
 <details>
 <summary> Modulo II - Configurando o ambiente </summary>
     * Instalando NodeJS <br />
