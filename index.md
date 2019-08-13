@@ -32,10 +32,25 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
 
 -------
 <details>
-<summary> Modulo II - Configurando o ambiente </summary>
+<summary> ⚙️ Modulo II - Configurando o ambiente </summary>
     * Instalando NodeJS <br />
-    * Baixando React Create App <br />
     * Git <br />
     * Criando um repositório no Github <br />
+    * Baixando React Create App <br />
     * Padronizando nosso código com o Prettier e o Lint <br />
 </details>
+
+
+-------
+<details>
+<summary> ⭐️ Modulo III - Welcome to the React </summary>
+    * O que é o React <br />
+    * Props <br />
+    * PropTypes <br />
+    * Eventos e Componentizaão <br />
+    * Refs <br />
+    * State e manipulação do DOM <br />
+    * Stateless <br />
+    * Life cycles <br />
+</details>
+
