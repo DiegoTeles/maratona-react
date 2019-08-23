@@ -47,10 +47,20 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
     * O que é o React <br />
     * Props <br />
     * PropTypes <br />
-    * Eventos e Componentizaão <br />
+    * Eventos e Componentização <br />
     * Refs <br />
     * State e manipulação do DOM <br />
     * Stateless <br />
     * Life cycles <br />
+</details>
+
+
+-------
+<details>
+<summary> ⭐️ Modulo IV - Criando Componentes </summary>
+    * O que é um Componente <br />
+    * Trabalhando com Props <br />
+    * Trabalhando com State <br />
+    * Trabalhando com handles <br />
 </details>
 
