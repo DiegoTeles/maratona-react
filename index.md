@@ -80,7 +80,7 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
 
 -------
 <details>
-<summary> ⭐️ Modulo V - Routes </summary>
+<summary> ⭐️ Modulo VI - Routes </summary>
     * React Router DOM <br />
     * Entenda Rotas <br />
     * Monte suas rotas privadas <br />
@@ -91,7 +91,7 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
 
 -------
 <details>
-<summary> ⭐️ Modulo VI - Trabalhando com Redux-Saga </summary>
+<summary> ⭐️ Modulo VII - Trabalhando com Redux-Saga </summary>
     * O que é Redux? <br />
     * Tipos de Redux <br />
     * Fluxo do Redux-Saga <br />
