@@ -61,6 +61,50 @@ Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/D
     * O que é um Componente <br />
     * Trabalhando com Props <br />
     * Trabalhando com State <br />
+    * Trabalhando funções <br />
     * Trabalhando com handles <br />
+    * Stateless x Statefull <br />
+    * Passando metodos entre os componentes <br />
 </details>
+
+
+-------
+<details>
+<summary> ⭐️ Modulo V - Storage </summary>
+    * Introdução ao local Storage <br />
+    * Local Storage no React <br />
+    * Expiração com Sessão de Storage <br />
+    * Como criar cache com React? <br />
+</details>
+
+
+-------
+<details>
+<summary> ⭐️ Modulo V - Routes </summary>
+    * React Router DOM <br />
+    * Entenda Rotas <br />
+    * Monte suas rotas privadas <br />
+    * Monte suas rotas publicas <br />
+    * Validando rotas por objetos literais <br />
+</details>
+
+
+-------
+<details>
+<summary> ⭐️ Modulo VI - Trabalhando com Redux-Saga </summary>
+    * O que é Redux? <br />
+    * Tipos de Redux <br />
+    * Fluxo do Redux-Saga <br />
+    * Middleware <br />
+    * Serviços <br />
+    * Actions, Saga, Reducers <br />
+    * Entenda Gererators <br />
+</details>
+
+
+
+
+
+
+
 
